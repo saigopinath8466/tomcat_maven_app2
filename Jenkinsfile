@@ -13,6 +13,7 @@ pipeline {
                 }
             }
           steps {
+                git 'https://github.com/saigopinath8466/tomcat_maven_app2'
                 sh "mvn clean package"
             }
         }
