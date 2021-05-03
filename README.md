@@ -1,5 +1,5 @@
 # CI-CD with Docker
-Here is the step by step instructions to host a highly available website.
+Here is the step by step instructions to host a highly available websites.
 
 ## Pre-requisites
 1. Create an account in dockerhub
